@@ -1,0 +1,3 @@
+intrinsic_dim,n_init,n_iterations,batch_size,final_score,total_time
+12,24,16,12,,4.5299530029296875e-06
+12,24,16,12,5.29114556312561,4278.863968849182
